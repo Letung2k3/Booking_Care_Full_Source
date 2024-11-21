@@ -1,6 +1,7 @@
-Thành viên nhóm: 
-  Lê Thanh Tùng 
-  Trương Văn Dương
+Thành viên nhóm
+
+  - Lê Thanh Tùng 
+  - Trương Văn Dương
                  
 Chức năng chính của project
 1. Trang chủ
